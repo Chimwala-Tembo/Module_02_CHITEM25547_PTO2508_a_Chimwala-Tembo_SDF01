@@ -1,6 +1,6 @@
-# [SDF01] Challenge: My First Repo 🚀
+# Inaugural Codespace Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Chimwala Tembo
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -68,7 +68,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+📧 Email: [chimwala@icloud.com](mailto:youremail@example.com)
 
 ---
 
@@ -80,4 +80,4 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chimwala-Tembo&show_icons=true&theme=radical)
